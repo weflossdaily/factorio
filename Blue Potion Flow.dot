@@ -1,0 +1,50 @@
+digraph { 
+    Science_Pack_3 -> Battery [label="1/12 (0.0833...)"]
+    Science_Pack_3 -> Advanced_Circuit [label="1/12 (0.0833...)"]
+    Science_Pack_3 -> Smart_Inserter [label="1/12 (0.0833...)"]
+    Science_Pack_3 -> Steel_Plate [label="1/12 (0.0833...)"]
+
+    Battery -> Copper_Plate [label="1/5 (0.2)"]
+    Battery -> Iron_Plate [label="1/5 (0.2)"]
+    Battery -> Sulfuric_Acid [label="2/5 (0.2)"]
+
+    Advanced_Circuit -> Electronic_Circuit [label="2/8 (0.2)"]
+    Advanced_Circuit -> Plastic_Bar [label="2/8 (0.2)"]
+    Advanced_Circuit -> Copper_Wire [label="4/8 (0.2)"]
+
+    Smart_Inserter -> Fast_Inserter [label="1/0.5 (2)"]
+    Smart_Inserter -> Electronic_Circuit [label="4/0.5 (4)"]
+
+    Fast_Inserter -> Inserter [label="1/0.5 (2)"]
+    Fast_Inserter -> Iron_Plate [label="2/0.5 (4)"]
+    Fast_Inserter -> Electronic_Circuit [label="2/0.5 (4)"]
+
+    Steel_Plate -> Iron_Plate [label="5/17.5 (.286)"]
+
+    Electronic_Circuit -> Iron_Plate [label="1/0.5 (2)"]
+    Electronic_Circuit -> Copper_Wire [label="3/0.5 (6)"]
+
+    Plastic_Bar -> Coal [label="1/1 (2)"]
+    Plastic_Bar -> Petroleum [label="3/1 (6)"]
+
+    Copper_Wire -> Copper_Plate [label="1/0.5 (2)"]
+
+    Copper_Plate -> Copper_Ore [label="1/3.5 (0.286)"]
+
+    Inserter -> {Iron_Plate} [label="1/0.5 (2)"]
+    Inserter -> Iron_Gear_Wheel [label="1/0.5 (2)"]
+    Inserter -> Electronic_Circuit [label="1/0.5 (2)"]
+
+    Iron_Plate -> Iron_Ore [label="1/3.5 (0.286)"]
+
+    Petroleum -> Crude_Oil
+
+    Iron_Gear_Wheel -> Iron_Plate [label="2/0.5 (4)"]
+
+    Sulfuric_Acid -> Sulfur [label="5/1 (5)"]
+    Sulfuric_Acid -> Iron_Plate [label="1/1 (1)"]
+    Sulfuric_Acid -> Water [label="10/1 (10)"]
+
+    Sulfur -> Water [label="3/1 (3)"]
+    Sulfur -> Petroleum [label="3/1 (3)"]
+}
