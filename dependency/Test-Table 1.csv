@@ -1,0 +1,351 @@
+Raw wood,Tree
+Wood,Raw wood
+Basic grenade,Coal
+Poison capsule,Coal
+Slowdown capsule,Coal
+Plastic bar,Coal
+Explosives,Coal
+Burner inserter,Coal
+Boiler,Coal
+Stone Furnace,Coal
+Steel Furnace,Coal
+Burner Mining Drill,Coal
+Diesel Locomotive,Coal
+Tank,Coal
+Car,Coal
+Iron plate,Iron ore
+Concrete,Iron ore
+Copper plate,Copper ore
+Stone brick,Stone
+Straight Rail,Stone
+Curved Rail,Stone
+Stone Furnace,Stone
+Alien artifact,Alien spawners
+Water,Lake
+Crude Oil,Oil field
+Wooden Chest,Wood
+Small electric pole,Wood
+Shotgun,Wood
+Combat shotgun,Wood
+Steel plate,Iron plate
+Iron stick,Iron plate
+Iron gear wheel,Iron plate
+Electronic circuit,Iron plate
+Battery,Iron plate
+Iron Chest,Iron plate
+Storage Tank,Iron plate
+Basic transport belt,Iron plate
+Basic underground belt,Iron plate
+Basic splitter,Iron plate
+Burner inserter,Iron plate
+Inserter,Iron plate
+Long handed inserter,Iron plate
+Fast inserter,Iron plate
+Pipe,Iron plate
+Pipe-to-ground,Iron plate
+Train stop,Iron plate
+Rail signal,Iron plate
+Rail chain signal,Iron plate
+Cargo wagon,Iron plate
+Car,Iron plate
+Iron Axe,Iron plate
+Steam engine,Iron plate
+Lamp,Iron plate
+Basic accumulator,Iron plate
+Burner Mining Drill,Iron plate
+Electric Mining Drill,Iron plate
+Assembling machine 1,Iron plate
+Assembling machine 2,Iron plate
+Pistol,Iron plate
+Submachine gun,Iron plate
+Shotgun,Iron plate
+Combat shotgun,Iron plate
+Regular magazine,Iron plate
+Shotgun shells,Iron plate
+Rocket,Iron plate
+Flamethrower ammo,Iron plate
+Basic grenade,Iron plate
+Iron armor,Iron plate
+Gun turret,Iron plate
+Radar,Iron plate
+Copper cable,Copper plate
+Battery,Copper plate
+Science pack 1,Copper plate
+Medium electric pole,Copper plate
+Big electric pole,Copper plate
+Substation,Copper plate
+Solar Panel,Copper plate
+Low density structure,Copper plate
+Pistol,Copper plate
+Submachine gun,Copper plate
+Shotgun,Copper plate
+Combat shotgun,Copper plate
+Regular magazine,Copper plate
+Shotgun shells,Copper plate
+Piercing shotgun shells,Copper plate
+Heavy armor,Copper plate
+Gun turret,Copper plate
+Steel Chest,Steel plate
+Storage Tank,Steel plate
+Medium electric pole,Steel plate
+Big electric pole,Steel plate
+Substation,Steel plate
+Small Pump,Steel plate
+Straight Rail,Steel plate
+Curved Rail,Steel plate
+Train stop,Steel plate
+Diesel Locomotive,Steel plate
+Cargo wagon,Steel plate
+Car,Steel plate
+Tank,Steel plate
+Roboport,Steel plate
+Steel Axe,Steel plate
+Solar Panel,Steel plate
+Pumpjack,Steel plate
+Basic Beacon,Steel plate
+Steel Furnace,Steel plate
+Electric Furnace,Steel plate
+Oil Refinery,Steel plate
+Chemical Plant,Steel plate
+Empty barrel,Steel plate
+Engine unit,Steel plate
+Flying robot frame,Steel plate
+Low density structure,Steel plate
+Science pack 3,Steel plate
+Combat shotgun,Steel plate
+Flamethrower,Steel plate
+Land mine,Steel plate
+Regular magazine,Steel plate
+Piercing shotgun shells,Steel plate
+Cannon shells,Steel plate
+Explosive cannon shells,Steel plate
+Poison capsule,Steel plate
+Slowdown capsule,Steel plate
+Heavy armor,Steel plate
+Basic modular armor,Steel plate
+Power armor,Steel plate
+Power armor MK2,Steel plate
+Portable solar panel,Steel plate
+Energy shield,Steel plate
+Battery,Steel plate
+Personal laser defense,Steel plate
+Discharge defense,Steel plate
+Basic exoskeleton equipment,Steel plate
+Personal roboport,Steel plate
+Night vision,Steel plate
+Gate,Steel plate
+Laser turret,Steel plate
+Rocket Silo,Steel plate
+Concrete,Stone brick
+Steel Furnace,Stone brick
+Electric Furnace,Stone brick
+Oil Refinery,Stone brick
+Wall,Stone brick
+Sulfuric Acid,Sulfur
+Explosives,Sulfur
+Advanced circuit,Plastic bar
+Low density structure,Plastic bar
+Cannon shells,Plastic bar
+Explosive cannon shells,Plastic bar
+Basic accumulator,Battery
+Flying robot frame,Battery
+Science pack 3,Battery
+Battery MK1,Battery
+Personal roboport,Battery
+Laser turret,Battery
+Iron Axe,Iron stick
+Steel Axe,Iron stick
+Lamp,Iron stick
+Straight Rail,Iron stick
+Curved Rail,Iron stick
+Science pack 1,Iron gear wheel
+Basic transport belt,Iron gear wheel
+Fast transport belt,Iron gear wheel
+Express transport belt,Iron gear wheel
+Fast underground belt,Iron gear wheel
+Express underground belt,Iron gear wheel
+Fast splitter,Iron gear wheel
+Express splitter,Iron gear wheel
+Burner inserter,Iron gear wheel
+Inserter,Iron gear wheel
+Long handed inserter,Iron gear wheel
+Engine unit,Iron gear wheel
+Cargo wagon,Iron gear wheel
+Tank,Iron gear wheel
+Roboport,Iron gear wheel
+Repair Pack,Iron gear wheel
+Steam engine,Iron gear wheel
+Burner Mining Drill,Iron gear wheel
+Electric Mining Drill,Iron gear wheel
+Offshore Pump,Iron gear wheel
+Pumpjack,Iron gear wheel
+Assembling machine 1,Iron gear wheel
+Assembling machine 2,Iron gear wheel
+Oil Refinery,Iron gear wheel
+Chemical Plant,Iron gear wheel
+Lab,Iron gear wheel
+Submachine gun,Iron gear wheel
+Shotgun,Iron gear wheel
+Combat shotgun,Iron gear wheel
+Rocket launcher,Iron gear wheel
+Flamethrower,Iron gear wheel
+Defender capsule,Iron gear wheel
+Personal roboport,Iron gear wheel
+Gun turret,Iron gear wheel
+Radar,Iron gear wheel
+Red wire,Copper cable
+Green wire,Copper cable
+Electronic circuit,Copper cable
+Advanced circuit,Copper cable
+Small electric pole,Copper cable
+Arithmetic Combinator,Copper cable
+Decider Combinator,Copper cable
+Constant Combinator,Copper cable
+Advanced circuit,Electronic circuit
+Processing Unit,Electronic circuit
+Smart Chest,Electronic circuit
+Basic splitter,Electronic circuit
+Fast splitter,Electronic circuit
+Inserter,Electronic circuit
+Fast inserter,Electronic circuit
+Smart inserter,Electronic circuit
+Train stop,Electronic circuit
+Rail signal,Electronic circuit
+Rail chain signal,Electronic circuit
+Diesel Locomotive,Electronic circuit
+Construction robot,Electronic circuit
+Red wire,Electronic circuit
+Green wire,Electronic circuit
+Arithmetic Combinator,Electronic circuit
+Decider Combinator,Electronic circuit
+Constant Combinator,Electronic circuit
+Repair Pack,Electronic circuit
+Lamp,Electronic circuit
+Solar Panel,Electronic circuit
+Offshore Pump,Electronic circuit
+Pumpjack,Electronic circuit
+Assembling machine 1,Electronic circuit
+Assembling machine 2,Electronic circuit
+Oil Refinery,Electronic circuit
+Chemical Plant,Electronic circuit
+Lab,Electronic circuit
+Basic Beacon,Electronic circuit
+Speed module,Electronic circuit
+Efficiency module,Electronic circuit
+Productivity module,Electronic circuit
+Electric engine unit,Electronic circuit
+Flying robot frame,Electronic circuit
+Rocket launcher,Electronic circuit
+Rocket,Electronic circuit
+Poison capsule,Electronic circuit
+Slowdown capsule,Electronic circuit
+Defender capsule,Electronic circuit
+Basic electric discharge defense remote,Electronic circuit
+Gate,Electronic circuit
+Laser turret,Electronic circuit
+Radar,Electronic circuit
+Express splitter,Advanced circuit
+Substation,Advanced circuit
+Tank,Advanced circuit
+Logistic robot,Advanced circuit
+Active Provider Chest,Advanced circuit
+Passive Provider Chest,Advanced circuit
+Requester Chest,Advanced circuit
+Storage Chest,Advanced circuit
+Roboport,Advanced circuit
+Blueprint,Advanced circuit
+Deconstruction planner,Advanced circuit
+Electric Furnace,Advanced circuit
+Basic Beacon,Advanced circuit
+Speed module,Advanced circuit
+Speed module 2,Advanced circuit
+Speed module 3,Advanced circuit
+Efficiency module,Advanced circuit
+Efficiency module 2,Advanced circuit
+Efficiency module 3,Advanced circuit
+Productivity module,Advanced circuit
+Productivity module 2,Advanced circuit
+Productivity module 3,Advanced circuit
+Processing Unit,Advanced circuit
+Science pack 3,Advanced circuit
+Distractor capsule,Advanced circuit
+Basic modular armor,Advanced circuit
+Energy shield,Advanced circuit
+Night vision,Advanced circuit
+Speed module 2,Processing Unit
+Speed module 3,Processing Unit
+Efficiency module 2,Processing Unit
+Efficiency module 3,Processing Unit
+Productivity module 2,Processing Unit
+Productivity module 3,Processing Unit
+Rocket control unit,Processing Unit
+Satellite,Processing Unit
+Basic modular armor,Processing Unit
+Power armor,Processing Unit
+Power armor MK2,Processing Unit
+Portable solar panel,Processing Unit
+Portable fusion reactor,Processing Unit
+Energy shield MK2,Processing Unit
+Battery MK2,Processing Unit
+Personal laser defense,Processing Unit
+Discharge defense,Processing Unit
+Basic exoskeleton equipment,Processing Unit
+Personal laser defense,Processing Unit
+Rocket Silo,Processing Unit
+Electric engine unit,Engine unit
+Diesel Locomotive,Engine unit
+Car,Engine unit
+Tank,Engine unit
+Small Pump,Electric engine unit
+Flying robot frame,Electric engine unit
+Power armor,Electric engine unit
+Basic exoskeleton equipment,Electric engine unit
+Rocket Silo,Electric engine unit
+Logistic robot,Flying robot frame
+Construction robot,Flying robot frame
+Lab,Science pack 1
+Lab,Science pack 2
+Lab,Science pack 3
+Lab,Alien science pack
+Fill Empty Barrel,Empty barrel
+Land mine,Explosives
+Cannon shells,Explosives
+Explosive cannon shells,Explosives
+Rocket,Explosives
+Explosive rocket,Explosives
+Sulfur,Petroleum Gas
+Plastic bar,Petroleum Gas
+Solid Fuel,Petroleum Gas
+Petroleum Gas,Light Oil
+Flamethrower ammo,Light Oil
+Solid Fuel,Light Oil
+Lubricant,Heavy Oil
+Light Oil,Heavy Oil
+Flamethrower ammo,Heavy Oil
+Solid Fuel,Heavy Oil
+Processing Unit,Sulfuric Acid
+Battery,Sulfuric Acid
+Express transport belt,Lubricant
+Express splitter,Lubricant
+Electric engine unit,Lubricant
+Destroyer capsule,Defender capsule
+Destroyer capsule,Distractor capsule
+Defender capsule,Piercing rounds magazine
+Explosive rocket,Rocket
+Efficiency module 2,Efficiency module
+Productivity module 2,Productivity module
+Speed module 2,Speed module
+Efficiency module 3,Efficiency module 2
+Productivity module 3,Productivity module 2
+Speed module 3,Speed module 2
+Assembling machine 1,Basic transport belt
+Assembling machine 2,Basic transport belt
+Assembling machine 3,Basic transport belt
+Long handed inserter,Inserter
+Fast inserter,Inserter
+Smart inserter,Fast inserter
+Smart Chest,Steel Chest
+Active Provider Chest,Smart Chest
+Passive Provider Chest,Smart Chest
+Requester Chest,Smart Chest
+Storage Chest,Smart Chest
